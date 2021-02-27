@@ -1,4 +1,4 @@
-# S03E02
+# Banco
 - O Banco
 - Lucas ajudou, precisei de ajuda para relembrar de uma boa parte;
 - Levei mais de 2 horas para conluir tudo.
